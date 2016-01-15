@@ -1,6 +1,6 @@
 {
   "name": "multiline-update",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Update multiple lines via an id, useful for building multiline progress bars",
   "main": "multiline.js",
   "scripts": {
